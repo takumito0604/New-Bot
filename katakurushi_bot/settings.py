@@ -25,7 +25,7 @@ SECRET_KEY = 'd2qc$4**0l$@r!vvb#0o9oyxbq))xd_&-jbm1%4gygb@r9josg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost','sheltered-shore-66691.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','fathomless-shelf-59783.herokuapp.com']
 
 
 # Application definition
