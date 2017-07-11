@@ -5,7 +5,7 @@ import json
 import os
 import random
 import sys
-sys.path.append('/Users/takumito0604/python/katakurushi_bot/bot')
+sys.path.append('/Users/takumito0604/python/katakurushi_bot/bot/load_serif')
 from load_serif import katakurushi_aisatsu
 
 # Create your views here.
