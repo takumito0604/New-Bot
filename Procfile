@@ -1,1 +1,1 @@
-web: gunicorn katakurushi_bot.wsgi bot:app
+web: gunicorn katakurushi_bot.wsgi bot:app --log-file -
