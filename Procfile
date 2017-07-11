@@ -1,1 +1,1 @@
-web: gunicorn
+web: gunicorn katakurushi_bot.wsgi
