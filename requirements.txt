@@ -8,7 +8,7 @@ lxml==3.7.3
 numpy==1.12.1
 oauthlib==2.0.2
 olefile==0.44
-Pillow==4.1.1
+Pillow==6.2.0
 pytz==2017.2
 requests==2.17.3
 requests-oauthlib==0.8.0
