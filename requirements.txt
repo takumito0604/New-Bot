@@ -4,7 +4,7 @@ chardet==3.0.3
 Django==1.11.2
 gunicorn==19.7.1
 idna==2.5
-lxml==3.7.3
+lxml==4.9.1
 numpy==1.12.1
 oauthlib==2.0.2
 olefile==0.44
